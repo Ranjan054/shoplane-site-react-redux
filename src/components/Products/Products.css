@@ -1,0 +1,20 @@
+
+#clothe-coll-heading, #access-coll-heading {
+    font-size: 1.5rem;
+    color: #1b1919;
+    font-weight: 600;
+    margin: 100px auto 40px  70px;
+  }
+  
+  .card-layout {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  }
+  
+  .padding-bottom {
+  padding-bottom: 100px;
+  }
+  
+
+ 

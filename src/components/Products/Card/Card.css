@@ -1,0 +1,43 @@
+.card-wrapper {
+    width: 204px;
+    height: 435px;
+    box-shadow: 0 0 11px #ccc;
+    margin: 30px 7px;
+    cursor: pointer;
+    border-radius: 6px;
+    }
+    
+    .card-wrapper:hover {
+    box-shadow: 0 0 20px #ccc;
+    }
+    
+    .coll-img {
+    width: 100%;
+    }
+    
+    .coll-content {
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+    
+    .coll-content > h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(27, 25, 25);
+    margin-top: 12px;
+    }
+    
+    .coll-brand {
+    font-size: 0.82rem;
+    opacity: 0.8;
+    font-weight: 600;
+    }
+    
+    .coll-price {
+    font-size: 15px;
+    color: #009688;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    }
+    
