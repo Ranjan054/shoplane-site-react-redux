@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Ranjan054/shoplane-site-react-redux.git/static/css/main.2c8f287f.chunk.css",
+    "main.js": "/Ranjan054/shoplane-site-react-redux.git/static/js/main.ad88dbc8.chunk.js",
+    "main.js.map": "/Ranjan054/shoplane-site-react-redux.git/static/js/main.ad88dbc8.chunk.js.map",
+    "runtime-main.js": "/Ranjan054/shoplane-site-react-redux.git/static/js/runtime-main.e90d6c2a.js",
+    "runtime-main.js.map": "/Ranjan054/shoplane-site-react-redux.git/static/js/runtime-main.e90d6c2a.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/Ranjan054/shoplane-site-react-redux.git/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.04da212d.chunk.js": "/Ranjan054/shoplane-site-react-redux.git/static/js/2.04da212d.chunk.js",
+    "static/js/2.04da212d.chunk.js.map": "/Ranjan054/shoplane-site-react-redux.git/static/js/2.04da212d.chunk.js.map",
+    "static/js/3.78ff2a28.chunk.js": "/Ranjan054/shoplane-site-react-redux.git/static/js/3.78ff2a28.chunk.js",
+    "static/js/3.78ff2a28.chunk.js.map": "/Ranjan054/shoplane-site-react-redux.git/static/js/3.78ff2a28.chunk.js.map",
+    "index.html": "/Ranjan054/shoplane-site-react-redux.git/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/Ranjan054/shoplane-site-react-redux.git/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.2c8f287f.chunk.css.map": "/Ranjan054/shoplane-site-react-redux.git/static/css/main.2c8f287f.chunk.css.map",
+    "static/js/2.04da212d.chunk.js.LICENSE.txt": "/Ranjan054/shoplane-site-react-redux.git/static/js/2.04da212d.chunk.js.LICENSE.txt",
+    "static/media/c1.9007d84c.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/c1.9007d84c.png",
+    "static/media/c2.88dc38c8.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/c2.88dc38c8.png",
+    "static/media/c3.d28aba27.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/c3.d28aba27.png",
+    "static/media/c4.c2ca730c.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/c4.c2ca730c.png",
+    "static/media/dummy.30484205.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/dummy.30484205.png",
+    "static/media/self.96cbc2ca.jpg": "/Ranjan054/shoplane-site-react-redux.git/static/media/self.96cbc2ca.jpg",
+    "static/media/white-tick.5177609a.png": "/Ranjan054/shoplane-site-react-redux.git/static/media/white-tick.5177609a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90d6c2a.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.04da212d.chunk.js",
+    "static/css/main.2c8f287f.chunk.css",
+    "static/js/main.ad88dbc8.chunk.js"
+  ]
+}
